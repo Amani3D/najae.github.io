@@ -1,0 +1,63 @@
+body {
+    background-color: lightsteelblue;
+    border: 4ch;
+}
+h1 {
+    text-align: center;
+    font-family: Garden Sans;
+}
+h2 {
+    text-align: center;
+    font-size: 90%;
+}
+h3 {
+    text-align: center;
+    font-size: 2.5ch;
+}
+h4 {
+    text-align: center;
+    font-size: 2.5ch; 
+}
+h5 {
+    text-align: center;
+    font-size: 2.5ch;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 4px solid teal;
+    border-top-style: groove;
+    border-right-style: groove;
+    border-bottom-style: groove;
+    border-left-style: groove;
+}
+.leftImgs{
+    float: left;
+}
+.rightImgs{
+    float: right;
+}
+.aaa{
+    width: 144px;
+    margin: auto;
+}
+p {
+    border-style: groove;
+    border: 5px solid;
+}
+.skills {
+    text-align: center;
+    border-style: inset;
+    border: 5px solid;
+}
+.salesassociate {
+    text-align: center;
+    border-style: inset;
+    border: 5px solid;
+}
+.officeassistant {
+    text-align: center;
+    border-style: inset;
+    border: 5px solid;
+}
